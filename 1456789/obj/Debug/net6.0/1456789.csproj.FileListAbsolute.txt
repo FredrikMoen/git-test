@@ -1,0 +1,15 @@
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/bin/Debug/net6.0/1456789
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/bin/Debug/net6.0/1456789.deps.json
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/bin/Debug/net6.0/1456789.runtimeconfig.json
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/bin/Debug/net6.0/1456789.dll
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/bin/Debug/net6.0/1456789.pdb
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.csproj.AssemblyReference.cache
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.AssemblyInfoInputs.cache
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.AssemblyInfo.cs
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.csproj.CoreCompileInputs.cache
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.dll
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/refint/1456789.dll
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.pdb
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/1456789.genruntimeconfig.cache
+/Users/fredrikmoen/Desktop/GA/Programvareutvikling/git-øvelse/1456789/1456789/obj/Debug/net6.0/ref/1456789.dll
